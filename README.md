@@ -1,5 +1,5 @@
 # Digital signal processing (DSP)
-Processamento Digital De Sinais - UNISINOS
+Processamento Digital De Sinais - UNISINOS (mar/2021 - jul/2021)
 
 **Sinais e Sistemas**
 * [Código com algortimo simples para a função Plot](https://github.com/nicolegold/DSP_UNISINOS/blob/main/CodigosAula/funcaoPlot.py)
