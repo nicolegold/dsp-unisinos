@@ -12,3 +12,7 @@ Processamento Digital De Sinais - UNISINOS
 * [Código com exemplo de fft](https://github.com/nicolegold/DSP_UNISINOS/blob/main/CodigosAula/exemplo_fft.py)
 * [Código para janelamento](https://github.com/nicolegold/DSP_UNISINOS/blob/main/CodigosAula/janelamento.py)
 * [Código com exemplo de janelamento](https://github.com/nicolegold/DSP_UNISINOS/blob/main/CodigosAula/janelamento_exemplo.py)
+
+**TRABALHO 1**
+* [Proposta Trabalho 1: Implementação da DFT](https://github.com/nicolegold/DSP_UNISINOS/blob/main/DSP_Trabalho1)
+* [Trabalho 1]()
