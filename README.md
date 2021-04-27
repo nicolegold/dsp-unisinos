@@ -16,3 +16,7 @@ Processamento Digital De Sinais - UNISINOS (mar/2021 - jul/2021)
 **TRABALHO 1**
 * [Proposta Trabalho 1: Implementação da DFT](https://github.com/nicolegold/DSP_UNISINOS/blob/main/DSP_Trabalho1)
 * [Trabalho 1]()
+
+**TRABALHO 2**
+* [Proposta Trabalho 2: Filtro]()
+* [Trabalho 2](https://github.com/nicolegold/DSP_UNISINOS/blob/main/Trabalho2_DSP.ipynb)
